@@ -9,6 +9,10 @@ http://localhost/wordpress/index.php/books/
 php URL
 http://localhost/data.php
 
+Laravel Project Document URL
+
+http://localhost:8000/api/documentation
+
 
 Laravel Cammonds
 php artisan config:cache	
